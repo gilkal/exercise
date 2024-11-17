@@ -6,7 +6,7 @@
 
    `npm install -–save-dev cypress-cucumber-preprocessor`
    
-2) Ponit npm's package.json to the exercise folder stracture:
+2) Point npm's package.json to the exercise folder stracture:
 
    Locate package.json and add the following lines:
 
