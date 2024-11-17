@@ -30,4 +30,5 @@ See example_package.json in this repository for reference.
 3) In some cases the selectors could be conisdered overly complicated and fragile, but these should theoretically be changed easily if unique identifiers are added to the relevant elements.
 4) Minimal test cleanup was added, which can be extended when needed.
 5) A known test problem: if the number of comments to the first post is more than 9, the test fails because of the way the selector "picks" the array elements (wrong type of sort).
-6) [This video](https://1drv.ms/v/c/48ea15936430ef63/EXsRuQxL9KlOvAqasmUrocEBKYTDVh8CyZlkC0QhdeLEeQ?e=bmXEfS) shows the tests running as well as how to run them.
+6) Tested on OSX Sequoia + Chrome only.
+7) [This video](https://1drv.ms/v/c/48ea15936430ef63/EXsRuQxL9KlOvAqasmUrocEBKYTDVh8CyZlkC0QhdeLEeQ?e=bmXEfS) shows the tests running as well as how to run them.
