@@ -25,7 +25,7 @@ See example_package.json in this repository for reference.
 
 ## Exercise comments
 
-1) The solution aims for maintainabilty, scalability and debuggability, balancing them with high quality requirements.
+1) The solution aims for maintainabilty, scalability and debuggability, while focusing on the funcitonality under test.
 2) Some negative tests were added as a sample, it is possible to add more as required.
 3) In some cases the selectors could be conisdered overly complicated and fragile, but these should theoretically be changed easily if unique identifiers are added to the relevant elements.
 4) Minimal test cleanup was added, which can be extended when needed.
